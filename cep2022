@@ -7,15 +7,19 @@
     <body>
         <h1 id="titulo"> Kenjaku</h1>
         <p class="texto"> NÃO É SPOILER RECENTE<a href="index.html"> Itadori's mom</a></p>
-        <p>No final de shibuya temos afirmações de choso sobre ser irmão de Itadori, no capitúlo 140 e alguma coisa temos a afirmação de Choso em rela ção aos pais de Itadori</p>
-        <p>No próximo capitúlo em que o Itadori é morto temos um flashback dos pais dele, mas espera a mãe de Itadori tem costuras na testa, igual Kenjaku?</p>
-        <p>Finalmente no capitúlo 160 temos Kenjaku se encontrando com a senpai de Itadori</p>
-        <p> páginas depois Kenjaku se refere a Itadori com "FILHO"?</p>
         <P> SINCERAMENTE, QUE PLOT TWIST</P>
+        <p>Você já ouviu a teoria sobre Kenjaku ser a mãe de Itadori? Caso você seja anime only, eu sei, eu sei parece loucura ou parece que estão tentando imitar a teoria de ONE PIECE,
+            mas calma essa teoria tem todos os fatos para ser verdadeira </p>
         <p> Na época as teorias quase óbvias borbulharam em sites de leitores, afirmando que sua mãe era na verdade uma hospedeira para Kenjaku. 
             Mas foi finalmente confirmado no capítulo 160 do mangá o grau de parentesco entre Itadori e Kenjaku, confirmando as teorias sobre sua mãe.</p>
-        <img src="https://i.pinimg.com/200x/20/3f/e2/203fe2f0ba29549a0c2f3edf67b7e752.jpg">
-        <script src="script.js">
+        <ol>
+            <li>No final de shibuya temos afirmações de choso sobre ser irmão de Itadori, no capitúlo 140 e alguma coisa temos a afirmação de Choso em rela ção aos pais de Itadori</li>
+            <li>No próximo capitúlo em que o Itadori é morto temos um flashback dos pais dele, mas espera a mãe de Itadori tem costuras na testa, igual Kenjaku?</li>
+            <li>Finalmente no capitúlo 160 temos Kenjaku se encontrando com a senpai de Itadori</li>
+            <li>páginas depois Kenjaku se refere a Itadori com "FILHO"?</li>
+        </ol>
+        <img src="https://i.pinimg.com/200x/20/3f/e2/203fe2f0ba29549a0c2f3edf67b7e752.jpg" width="300px">
+        <script src="script.js"></script>
     </body>
 </html>
 
